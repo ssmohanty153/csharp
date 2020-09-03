@@ -1,0 +1,13 @@
+C:\Users\ssmoh\source\repos\TypeCast\TypeCast\bin\Debug\netcoreapp3.1\TypeCast.exe
+C:\Users\ssmoh\source\repos\TypeCast\TypeCast\bin\Debug\netcoreapp3.1\TypeCast.deps.json
+C:\Users\ssmoh\source\repos\TypeCast\TypeCast\bin\Debug\netcoreapp3.1\TypeCast.runtimeconfig.json
+C:\Users\ssmoh\source\repos\TypeCast\TypeCast\bin\Debug\netcoreapp3.1\TypeCast.runtimeconfig.dev.json
+C:\Users\ssmoh\source\repos\TypeCast\TypeCast\bin\Debug\netcoreapp3.1\TypeCast.dll
+C:\Users\ssmoh\source\repos\TypeCast\TypeCast\bin\Debug\netcoreapp3.1\TypeCast.pdb
+C:\Users\ssmoh\source\repos\TypeCast\TypeCast\obj\Debug\netcoreapp3.1\TypeCast.csprojAssemblyReference.cache
+C:\Users\ssmoh\source\repos\TypeCast\TypeCast\obj\Debug\netcoreapp3.1\TypeCast.AssemblyInfoInputs.cache
+C:\Users\ssmoh\source\repos\TypeCast\TypeCast\obj\Debug\netcoreapp3.1\TypeCast.AssemblyInfo.cs
+C:\Users\ssmoh\source\repos\TypeCast\TypeCast\obj\Debug\netcoreapp3.1\TypeCast.csproj.CoreCompileInputs.cache
+C:\Users\ssmoh\source\repos\TypeCast\TypeCast\obj\Debug\netcoreapp3.1\TypeCast.dll
+C:\Users\ssmoh\source\repos\TypeCast\TypeCast\obj\Debug\netcoreapp3.1\TypeCast.pdb
+C:\Users\ssmoh\source\repos\TypeCast\TypeCast\obj\Debug\netcoreapp3.1\TypeCast.genruntimeconfig.cache

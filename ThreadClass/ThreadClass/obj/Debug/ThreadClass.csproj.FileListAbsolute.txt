@@ -1,0 +1,7 @@
+C:\Users\ssmoh\source\repos\ThreadClass\ThreadClass\bin\Debug\ThreadClass.exe.config
+C:\Users\ssmoh\source\repos\ThreadClass\ThreadClass\bin\Debug\ThreadClass.exe
+C:\Users\ssmoh\source\repos\ThreadClass\ThreadClass\bin\Debug\ThreadClass.pdb
+C:\Users\ssmoh\source\repos\ThreadClass\ThreadClass\obj\Debug\ThreadClass.csprojAssemblyReference.cache
+C:\Users\ssmoh\source\repos\ThreadClass\ThreadClass\obj\Debug\ThreadClass.csproj.CoreCompileInputs.cache
+C:\Users\ssmoh\source\repos\ThreadClass\ThreadClass\obj\Debug\ThreadClass.exe
+C:\Users\ssmoh\source\repos\ThreadClass\ThreadClass\obj\Debug\ThreadClass.pdb

@@ -1,0 +1,14 @@
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinkToSqlProject\bin\Debug\Database1.mdf
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinkToSqlProject\bin\Debug\Database1_log.ldf
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinkToSqlProject\bin\Debug\LinkToSqlProject.exe.config
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinkToSqlProject\bin\Debug\LinkToSqlProject.exe
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinkToSqlProject\bin\Debug\LinkToSqlProject.pdb
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinkToSqlProject\bin\Debug\EntityFramework.dll
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinkToSqlProject\bin\Debug\EntityFramework.xml
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinkToSqlProject\obj\Debug\LinkToSqlProject.csprojAssemblyReference.cache
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinkToSqlProject\obj\Debug\LinkToSqlProject.Properties.Resources.resources
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinkToSqlProject\obj\Debug\LinkToSqlProject.csproj.GenerateResource.cache
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinkToSqlProject\obj\Debug\LinkToSqlProject.csproj.CoreCompileInputs.cache
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinkToSqlProject\obj\Debug\LinkToSqlProject.csproj.CopyComplete
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinkToSqlProject\obj\Debug\LinkToSqlProject.exe
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinkToSqlProject\obj\Debug\LinkToSqlProject.pdb

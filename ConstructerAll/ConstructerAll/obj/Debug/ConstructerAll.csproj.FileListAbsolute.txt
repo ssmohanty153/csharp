@@ -1,0 +1,7 @@
+C:\Users\ssmoh\source\repos\ConstructerAll\ConstructerAll\bin\Debug\ConstructerAll.exe.config
+C:\Users\ssmoh\source\repos\ConstructerAll\ConstructerAll\bin\Debug\ConstructerAll.exe
+C:\Users\ssmoh\source\repos\ConstructerAll\ConstructerAll\bin\Debug\ConstructerAll.pdb
+C:\Users\ssmoh\source\repos\ConstructerAll\ConstructerAll\obj\Debug\ConstructerAll.csprojAssemblyReference.cache
+C:\Users\ssmoh\source\repos\ConstructerAll\ConstructerAll\obj\Debug\ConstructerAll.csproj.CoreCompileInputs.cache
+C:\Users\ssmoh\source\repos\ConstructerAll\ConstructerAll\obj\Debug\ConstructerAll.exe
+C:\Users\ssmoh\source\repos\ConstructerAll\ConstructerAll\obj\Debug\ConstructerAll.pdb

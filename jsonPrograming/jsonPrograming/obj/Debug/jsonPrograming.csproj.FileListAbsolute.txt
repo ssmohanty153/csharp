@@ -1,0 +1,10 @@
+C:\Users\ssmoh\source\repos\jsonPrograming\jsonPrograming\bin\Debug\jsonPrograming.exe.config
+C:\Users\ssmoh\source\repos\jsonPrograming\jsonPrograming\bin\Debug\jsonPrograming.exe
+C:\Users\ssmoh\source\repos\jsonPrograming\jsonPrograming\bin\Debug\jsonPrograming.pdb
+C:\Users\ssmoh\source\repos\jsonPrograming\jsonPrograming\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ssmoh\source\repos\jsonPrograming\jsonPrograming\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ssmoh\source\repos\jsonPrograming\jsonPrograming\obj\Debug\jsonPrograming.csprojAssemblyReference.cache
+C:\Users\ssmoh\source\repos\jsonPrograming\jsonPrograming\obj\Debug\jsonPrograming.csproj.CoreCompileInputs.cache
+C:\Users\ssmoh\source\repos\jsonPrograming\jsonPrograming\obj\Debug\jsonPrograming.csproj.CopyComplete
+C:\Users\ssmoh\source\repos\jsonPrograming\jsonPrograming\obj\Debug\jsonPrograming.exe
+C:\Users\ssmoh\source\repos\jsonPrograming\jsonPrograming\obj\Debug\jsonPrograming.pdb

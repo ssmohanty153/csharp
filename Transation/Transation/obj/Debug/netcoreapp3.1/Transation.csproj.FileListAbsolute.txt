@@ -1,0 +1,13 @@
+C:\Users\ssmoh\source\repos\Transation\Transation\obj\Debug\netcoreapp3.1\Transation.csprojAssemblyReference.cache
+C:\Users\ssmoh\source\repos\Transation\Transation\obj\Debug\netcoreapp3.1\Transation.AssemblyInfoInputs.cache
+C:\Users\ssmoh\source\repos\Transation\Transation\obj\Debug\netcoreapp3.1\Transation.AssemblyInfo.cs
+C:\Users\ssmoh\source\repos\Transation\Transation\obj\Debug\netcoreapp3.1\Transation.csproj.CoreCompileInputs.cache
+C:\Users\ssmoh\source\repos\Transation\Transation\bin\Debug\netcoreapp3.1\Transation.exe
+C:\Users\ssmoh\source\repos\Transation\Transation\bin\Debug\netcoreapp3.1\Transation.deps.json
+C:\Users\ssmoh\source\repos\Transation\Transation\bin\Debug\netcoreapp3.1\Transation.runtimeconfig.json
+C:\Users\ssmoh\source\repos\Transation\Transation\bin\Debug\netcoreapp3.1\Transation.runtimeconfig.dev.json
+C:\Users\ssmoh\source\repos\Transation\Transation\bin\Debug\netcoreapp3.1\Transation.dll
+C:\Users\ssmoh\source\repos\Transation\Transation\bin\Debug\netcoreapp3.1\Transation.pdb
+C:\Users\ssmoh\source\repos\Transation\Transation\obj\Debug\netcoreapp3.1\Transation.dll
+C:\Users\ssmoh\source\repos\Transation\Transation\obj\Debug\netcoreapp3.1\Transation.pdb
+C:\Users\ssmoh\source\repos\Transation\Transation\obj\Debug\netcoreapp3.1\Transation.genruntimeconfig.cache

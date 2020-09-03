@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoCreateTable", "AdoCreateTable\AdoCreateTable.csproj", "{38366BED-1270-4E08-985E-6B54F2642E63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38366BED-1270-4E08-985E-6B54F2642E63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38366BED-1270-4E08-985E-6B54F2642E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38366BED-1270-4E08-985E-6B54F2642E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38366BED-1270-4E08-985E-6B54F2642E63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0139AA47-CC40-49CF-80D1-B49ACF5DF75D}
+	EndGlobalSection
+EndGlobal

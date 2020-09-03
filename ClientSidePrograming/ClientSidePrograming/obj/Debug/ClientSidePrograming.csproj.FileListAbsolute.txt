@@ -1,0 +1,7 @@
+C:\Users\ssmoh\source\repos\ClientSidePrograming\ClientSidePrograming\bin\Debug\ClientSidePrograming.exe.config
+C:\Users\ssmoh\source\repos\ClientSidePrograming\ClientSidePrograming\bin\Debug\ClientSidePrograming.exe
+C:\Users\ssmoh\source\repos\ClientSidePrograming\ClientSidePrograming\bin\Debug\ClientSidePrograming.pdb
+C:\Users\ssmoh\source\repos\ClientSidePrograming\ClientSidePrograming\obj\Debug\ClientSidePrograming.csprojAssemblyReference.cache
+C:\Users\ssmoh\source\repos\ClientSidePrograming\ClientSidePrograming\obj\Debug\ClientSidePrograming.csproj.CoreCompileInputs.cache
+C:\Users\ssmoh\source\repos\ClientSidePrograming\ClientSidePrograming\obj\Debug\ClientSidePrograming.exe
+C:\Users\ssmoh\source\repos\ClientSidePrograming\ClientSidePrograming\obj\Debug\ClientSidePrograming.pdb

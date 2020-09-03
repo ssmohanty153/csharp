@@ -1,0 +1,13 @@
+C:\Users\ssmoh\source\repos\BasiCollection\BasiCollection\bin\Debug\netcoreapp3.1\BasiCollection.exe
+C:\Users\ssmoh\source\repos\BasiCollection\BasiCollection\bin\Debug\netcoreapp3.1\BasiCollection.deps.json
+C:\Users\ssmoh\source\repos\BasiCollection\BasiCollection\bin\Debug\netcoreapp3.1\BasiCollection.runtimeconfig.json
+C:\Users\ssmoh\source\repos\BasiCollection\BasiCollection\bin\Debug\netcoreapp3.1\BasiCollection.runtimeconfig.dev.json
+C:\Users\ssmoh\source\repos\BasiCollection\BasiCollection\bin\Debug\netcoreapp3.1\BasiCollection.dll
+C:\Users\ssmoh\source\repos\BasiCollection\BasiCollection\bin\Debug\netcoreapp3.1\BasiCollection.pdb
+C:\Users\ssmoh\source\repos\BasiCollection\BasiCollection\obj\Debug\netcoreapp3.1\BasiCollection.csprojAssemblyReference.cache
+C:\Users\ssmoh\source\repos\BasiCollection\BasiCollection\obj\Debug\netcoreapp3.1\BasiCollection.AssemblyInfoInputs.cache
+C:\Users\ssmoh\source\repos\BasiCollection\BasiCollection\obj\Debug\netcoreapp3.1\BasiCollection.AssemblyInfo.cs
+C:\Users\ssmoh\source\repos\BasiCollection\BasiCollection\obj\Debug\netcoreapp3.1\BasiCollection.csproj.CoreCompileInputs.cache
+C:\Users\ssmoh\source\repos\BasiCollection\BasiCollection\obj\Debug\netcoreapp3.1\BasiCollection.dll
+C:\Users\ssmoh\source\repos\BasiCollection\BasiCollection\obj\Debug\netcoreapp3.1\BasiCollection.pdb
+C:\Users\ssmoh\source\repos\BasiCollection\BasiCollection\obj\Debug\netcoreapp3.1\BasiCollection.genruntimeconfig.cache

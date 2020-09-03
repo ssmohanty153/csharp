@@ -1,0 +1,7 @@
+C:\Users\ssmoh\source\repos\NewProjectWork\NewProjectWork\bin\Debug\NewProjectWork.exe.config
+C:\Users\ssmoh\source\repos\NewProjectWork\NewProjectWork\bin\Debug\NewProjectWork.exe
+C:\Users\ssmoh\source\repos\NewProjectWork\NewProjectWork\bin\Debug\NewProjectWork.pdb
+C:\Users\ssmoh\source\repos\NewProjectWork\NewProjectWork\obj\Debug\NewProjectWork.csprojAssemblyReference.cache
+C:\Users\ssmoh\source\repos\NewProjectWork\NewProjectWork\obj\Debug\NewProjectWork.csproj.CoreCompileInputs.cache
+C:\Users\ssmoh\source\repos\NewProjectWork\NewProjectWork\obj\Debug\NewProjectWork.exe
+C:\Users\ssmoh\source\repos\NewProjectWork\NewProjectWork\obj\Debug\NewProjectWork.pdb

@@ -1,0 +1,13 @@
+C:\Users\ssmoh\source\repos\ExceptionPrograming\ExceptionPrograming\bin\Debug\netcoreapp3.1\ExceptionPrograming.exe
+C:\Users\ssmoh\source\repos\ExceptionPrograming\ExceptionPrograming\bin\Debug\netcoreapp3.1\ExceptionPrograming.deps.json
+C:\Users\ssmoh\source\repos\ExceptionPrograming\ExceptionPrograming\bin\Debug\netcoreapp3.1\ExceptionPrograming.runtimeconfig.json
+C:\Users\ssmoh\source\repos\ExceptionPrograming\ExceptionPrograming\bin\Debug\netcoreapp3.1\ExceptionPrograming.runtimeconfig.dev.json
+C:\Users\ssmoh\source\repos\ExceptionPrograming\ExceptionPrograming\bin\Debug\netcoreapp3.1\ExceptionPrograming.dll
+C:\Users\ssmoh\source\repos\ExceptionPrograming\ExceptionPrograming\bin\Debug\netcoreapp3.1\ExceptionPrograming.pdb
+C:\Users\ssmoh\source\repos\ExceptionPrograming\ExceptionPrograming\obj\Debug\netcoreapp3.1\ExceptionPrograming.csprojAssemblyReference.cache
+C:\Users\ssmoh\source\repos\ExceptionPrograming\ExceptionPrograming\obj\Debug\netcoreapp3.1\ExceptionPrograming.AssemblyInfoInputs.cache
+C:\Users\ssmoh\source\repos\ExceptionPrograming\ExceptionPrograming\obj\Debug\netcoreapp3.1\ExceptionPrograming.AssemblyInfo.cs
+C:\Users\ssmoh\source\repos\ExceptionPrograming\ExceptionPrograming\obj\Debug\netcoreapp3.1\ExceptionPrograming.csproj.CoreCompileInputs.cache
+C:\Users\ssmoh\source\repos\ExceptionPrograming\ExceptionPrograming\obj\Debug\netcoreapp3.1\ExceptionPrograming.dll
+C:\Users\ssmoh\source\repos\ExceptionPrograming\ExceptionPrograming\obj\Debug\netcoreapp3.1\ExceptionPrograming.pdb
+C:\Users\ssmoh\source\repos\ExceptionPrograming\ExceptionPrograming\obj\Debug\netcoreapp3.1\ExceptionPrograming.genruntimeconfig.cache

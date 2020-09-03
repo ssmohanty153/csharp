@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EmployeeDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'EmployeeDB.dbo.Emplist' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Emplist">
+    <Key>
+      <PropertyRef Name="Addresh" />
+    </Key>
+    <Property Name="Ename" Type="varchar" MaxLength="50" />
+    <Property Name="Eid" Type="int" />
+    <Property Name="Addresh" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="MobileNumber" Type="int" />
+  </EntityType>
+  <EntityContainer Name="EmployeeDBModelStoreContainer">
+    <EntitySet Name="Emplist" EntityType="Self.Emplist" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Emplist].[Ename] AS [Ename], 
+    [Emplist].[Eid] AS [Eid], 
+    [Emplist].[Addresh] AS [Addresh], 
+    [Emplist].[MobileNumber] AS [MobileNumber]
+    FROM [dbo].[Emplist] AS [Emplist]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

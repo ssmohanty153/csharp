@@ -1,0 +1,13 @@
+C:\Users\ssmoh\source\repos\BizRunTime\BizRunTime\bin\Debug\netcoreapp3.1\BizRunTime.exe
+C:\Users\ssmoh\source\repos\BizRunTime\BizRunTime\bin\Debug\netcoreapp3.1\BizRunTime.deps.json
+C:\Users\ssmoh\source\repos\BizRunTime\BizRunTime\bin\Debug\netcoreapp3.1\BizRunTime.runtimeconfig.json
+C:\Users\ssmoh\source\repos\BizRunTime\BizRunTime\bin\Debug\netcoreapp3.1\BizRunTime.runtimeconfig.dev.json
+C:\Users\ssmoh\source\repos\BizRunTime\BizRunTime\bin\Debug\netcoreapp3.1\BizRunTime.dll
+C:\Users\ssmoh\source\repos\BizRunTime\BizRunTime\bin\Debug\netcoreapp3.1\BizRunTime.pdb
+C:\Users\ssmoh\source\repos\BizRunTime\BizRunTime\obj\Debug\netcoreapp3.1\BizRunTime.csprojAssemblyReference.cache
+C:\Users\ssmoh\source\repos\BizRunTime\BizRunTime\obj\Debug\netcoreapp3.1\BizRunTime.AssemblyInfoInputs.cache
+C:\Users\ssmoh\source\repos\BizRunTime\BizRunTime\obj\Debug\netcoreapp3.1\BizRunTime.AssemblyInfo.cs
+C:\Users\ssmoh\source\repos\BizRunTime\BizRunTime\obj\Debug\netcoreapp3.1\BizRunTime.csproj.CoreCompileInputs.cache
+C:\Users\ssmoh\source\repos\BizRunTime\BizRunTime\obj\Debug\netcoreapp3.1\BizRunTime.dll
+C:\Users\ssmoh\source\repos\BizRunTime\BizRunTime\obj\Debug\netcoreapp3.1\BizRunTime.pdb
+C:\Users\ssmoh\source\repos\BizRunTime\BizRunTime\obj\Debug\netcoreapp3.1\BizRunTime.genruntimeconfig.cache

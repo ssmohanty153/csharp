@@ -1,0 +1,7 @@
+C:\Users\ssmoh\source\repos\DelegateExampleAll\DelegateExampleAll\bin\Debug\DelegateExampleAll.exe.config
+C:\Users\ssmoh\source\repos\DelegateExampleAll\DelegateExampleAll\bin\Debug\DelegateExampleAll.exe
+C:\Users\ssmoh\source\repos\DelegateExampleAll\DelegateExampleAll\bin\Debug\DelegateExampleAll.pdb
+C:\Users\ssmoh\source\repos\DelegateExampleAll\DelegateExampleAll\obj\Debug\DelegateExampleAll.csprojAssemblyReference.cache
+C:\Users\ssmoh\source\repos\DelegateExampleAll\DelegateExampleAll\obj\Debug\DelegateExampleAll.csproj.CoreCompileInputs.cache
+C:\Users\ssmoh\source\repos\DelegateExampleAll\DelegateExampleAll\obj\Debug\DelegateExampleAll.exe
+C:\Users\ssmoh\source\repos\DelegateExampleAll\DelegateExampleAll\obj\Debug\DelegateExampleAll.pdb

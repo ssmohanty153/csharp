@@ -1,0 +1,9 @@
+C:\Users\ssmoh\source\repos\AdoProject\AdoProject\obj\Debug\AdoProject.csprojAssemblyReference.cache
+C:\Users\ssmoh\source\repos\AdoProject\AdoProject\obj\Debug\AdoProject.csproj.CoreCompileInputs.cache
+C:\Users\ssmoh\source\repos\AdoProject\AdoProject\bin\Debug\AdoProject.exe.config
+C:\Users\ssmoh\source\repos\AdoProject\AdoProject\bin\Debug\AdoProject.exe
+C:\Users\ssmoh\source\repos\AdoProject\AdoProject\bin\Debug\AdoProject.pdb
+C:\Users\ssmoh\source\repos\AdoProject\AdoProject\obj\Debug\AdoProject.exe
+C:\Users\ssmoh\source\repos\AdoProject\AdoProject\obj\Debug\AdoProject.pdb
+C:\Users\ssmoh\source\repos\AdoProject\AdoProject\obj\Debug\AdoProject.Form1.resources
+C:\Users\ssmoh\source\repos\AdoProject\AdoProject\obj\Debug\AdoProject.csproj.GenerateResource.cache

@@ -1,0 +1,7 @@
+C:\Users\ssmoh\source\repos\EventHandlerPrgramming\EventHandlerPrgramming\bin\Debug\EventHandlerPrgramming.exe.config
+C:\Users\ssmoh\source\repos\EventHandlerPrgramming\EventHandlerPrgramming\bin\Debug\EventHandlerPrgramming.exe
+C:\Users\ssmoh\source\repos\EventHandlerPrgramming\EventHandlerPrgramming\bin\Debug\EventHandlerPrgramming.pdb
+C:\Users\ssmoh\source\repos\EventHandlerPrgramming\EventHandlerPrgramming\obj\Debug\EventHandlerPrgramming.csprojAssemblyReference.cache
+C:\Users\ssmoh\source\repos\EventHandlerPrgramming\EventHandlerPrgramming\obj\Debug\EventHandlerPrgramming.csproj.CoreCompileInputs.cache
+C:\Users\ssmoh\source\repos\EventHandlerPrgramming\EventHandlerPrgramming\obj\Debug\EventHandlerPrgramming.exe
+C:\Users\ssmoh\source\repos\EventHandlerPrgramming\EventHandlerPrgramming\obj\Debug\EventHandlerPrgramming.pdb

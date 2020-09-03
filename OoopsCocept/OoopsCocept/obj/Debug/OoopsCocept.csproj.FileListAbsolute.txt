@@ -1,0 +1,7 @@
+C:\Users\ssmoh\source\repos\OoopsCocept\OoopsCocept\bin\Debug\OoopsCocept.exe.config
+C:\Users\ssmoh\source\repos\OoopsCocept\OoopsCocept\bin\Debug\OoopsCocept.exe
+C:\Users\ssmoh\source\repos\OoopsCocept\OoopsCocept\bin\Debug\OoopsCocept.pdb
+C:\Users\ssmoh\source\repos\OoopsCocept\OoopsCocept\obj\Debug\OoopsCocept.csprojAssemblyReference.cache
+C:\Users\ssmoh\source\repos\OoopsCocept\OoopsCocept\obj\Debug\OoopsCocept.csproj.CoreCompileInputs.cache
+C:\Users\ssmoh\source\repos\OoopsCocept\OoopsCocept\obj\Debug\OoopsCocept.exe
+C:\Users\ssmoh\source\repos\OoopsCocept\OoopsCocept\obj\Debug\OoopsCocept.pdb

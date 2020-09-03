@@ -1,0 +1,13 @@
+C:\Users\ssmoh\source\repos\FileStramIpOp\FileStramIpOp\bin\Debug\netcoreapp3.1\FileStramIpOp.exe
+C:\Users\ssmoh\source\repos\FileStramIpOp\FileStramIpOp\bin\Debug\netcoreapp3.1\FileStramIpOp.deps.json
+C:\Users\ssmoh\source\repos\FileStramIpOp\FileStramIpOp\bin\Debug\netcoreapp3.1\FileStramIpOp.runtimeconfig.json
+C:\Users\ssmoh\source\repos\FileStramIpOp\FileStramIpOp\bin\Debug\netcoreapp3.1\FileStramIpOp.runtimeconfig.dev.json
+C:\Users\ssmoh\source\repos\FileStramIpOp\FileStramIpOp\bin\Debug\netcoreapp3.1\FileStramIpOp.dll
+C:\Users\ssmoh\source\repos\FileStramIpOp\FileStramIpOp\bin\Debug\netcoreapp3.1\FileStramIpOp.pdb
+C:\Users\ssmoh\source\repos\FileStramIpOp\FileStramIpOp\obj\Debug\netcoreapp3.1\FileStramIpOp.csprojAssemblyReference.cache
+C:\Users\ssmoh\source\repos\FileStramIpOp\FileStramIpOp\obj\Debug\netcoreapp3.1\FileStramIpOp.AssemblyInfoInputs.cache
+C:\Users\ssmoh\source\repos\FileStramIpOp\FileStramIpOp\obj\Debug\netcoreapp3.1\FileStramIpOp.AssemblyInfo.cs
+C:\Users\ssmoh\source\repos\FileStramIpOp\FileStramIpOp\obj\Debug\netcoreapp3.1\FileStramIpOp.csproj.CoreCompileInputs.cache
+C:\Users\ssmoh\source\repos\FileStramIpOp\FileStramIpOp\obj\Debug\netcoreapp3.1\FileStramIpOp.dll
+C:\Users\ssmoh\source\repos\FileStramIpOp\FileStramIpOp\obj\Debug\netcoreapp3.1\FileStramIpOp.pdb
+C:\Users\ssmoh\source\repos\FileStramIpOp\FileStramIpOp\obj\Debug\netcoreapp3.1\FileStramIpOp.genruntimeconfig.cache

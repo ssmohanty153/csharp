@@ -1,0 +1,7 @@
+C:\Users\ssmoh\source\repos\CollectionDiff\CollectionDiff\bin\Debug\CollectionDiff.exe.config
+C:\Users\ssmoh\source\repos\CollectionDiff\CollectionDiff\bin\Debug\CollectionDiff.exe
+C:\Users\ssmoh\source\repos\CollectionDiff\CollectionDiff\bin\Debug\CollectionDiff.pdb
+C:\Users\ssmoh\source\repos\CollectionDiff\CollectionDiff\obj\Debug\CollectionDiff.csprojAssemblyReference.cache
+C:\Users\ssmoh\source\repos\CollectionDiff\CollectionDiff\obj\Debug\CollectionDiff.csproj.CoreCompileInputs.cache
+C:\Users\ssmoh\source\repos\CollectionDiff\CollectionDiff\obj\Debug\CollectionDiff.exe
+C:\Users\ssmoh\source\repos\CollectionDiff\CollectionDiff\obj\Debug\CollectionDiff.pdb

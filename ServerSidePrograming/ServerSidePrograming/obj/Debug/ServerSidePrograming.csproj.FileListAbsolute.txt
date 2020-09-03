@@ -1,0 +1,7 @@
+C:\Users\ssmoh\source\repos\ServerSidePrograming\ServerSidePrograming\bin\Debug\ServerSidePrograming.exe.config
+C:\Users\ssmoh\source\repos\ServerSidePrograming\ServerSidePrograming\bin\Debug\ServerSidePrograming.exe
+C:\Users\ssmoh\source\repos\ServerSidePrograming\ServerSidePrograming\bin\Debug\ServerSidePrograming.pdb
+C:\Users\ssmoh\source\repos\ServerSidePrograming\ServerSidePrograming\obj\Debug\ServerSidePrograming.csprojAssemblyReference.cache
+C:\Users\ssmoh\source\repos\ServerSidePrograming\ServerSidePrograming\obj\Debug\ServerSidePrograming.csproj.CoreCompileInputs.cache
+C:\Users\ssmoh\source\repos\ServerSidePrograming\ServerSidePrograming\obj\Debug\ServerSidePrograming.exe
+C:\Users\ssmoh\source\repos\ServerSidePrograming\ServerSidePrograming\obj\Debug\ServerSidePrograming.pdb

@@ -1,0 +1,10 @@
+C:\Users\ssmoh\source\repos\WindowProject\WindowProject\bin\Debug\WindowProject.exe.config
+C:\Users\ssmoh\source\repos\WindowProject\WindowProject\bin\Debug\WindowProject.exe
+C:\Users\ssmoh\source\repos\WindowProject\WindowProject\bin\Debug\WindowProject.pdb
+C:\Users\ssmoh\source\repos\WindowProject\WindowProject\obj\Debug\WindowProject.csprojAssemblyReference.cache
+C:\Users\ssmoh\source\repos\WindowProject\WindowProject\obj\Debug\WindowProject.Form1.resources
+C:\Users\ssmoh\source\repos\WindowProject\WindowProject\obj\Debug\WindowProject.Properties.Resources.resources
+C:\Users\ssmoh\source\repos\WindowProject\WindowProject\obj\Debug\WindowProject.csproj.GenerateResource.cache
+C:\Users\ssmoh\source\repos\WindowProject\WindowProject\obj\Debug\WindowProject.csproj.CoreCompileInputs.cache
+C:\Users\ssmoh\source\repos\WindowProject\WindowProject\obj\Debug\WindowProject.exe
+C:\Users\ssmoh\source\repos\WindowProject\WindowProject\obj\Debug\WindowProject.pdb

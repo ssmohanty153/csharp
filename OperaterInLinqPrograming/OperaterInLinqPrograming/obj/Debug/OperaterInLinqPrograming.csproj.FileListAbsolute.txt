@@ -1,0 +1,7 @@
+C:\Users\ssmoh\source\repos\OperaterInLinqPrograming\OperaterInLinqPrograming\bin\Debug\OperaterInLinqPrograming.exe.config
+C:\Users\ssmoh\source\repos\OperaterInLinqPrograming\OperaterInLinqPrograming\bin\Debug\OperaterInLinqPrograming.exe
+C:\Users\ssmoh\source\repos\OperaterInLinqPrograming\OperaterInLinqPrograming\bin\Debug\OperaterInLinqPrograming.pdb
+C:\Users\ssmoh\source\repos\OperaterInLinqPrograming\OperaterInLinqPrograming\obj\Debug\OperaterInLinqPrograming.csprojAssemblyReference.cache
+C:\Users\ssmoh\source\repos\OperaterInLinqPrograming\OperaterInLinqPrograming\obj\Debug\OperaterInLinqPrograming.csproj.CoreCompileInputs.cache
+C:\Users\ssmoh\source\repos\OperaterInLinqPrograming\OperaterInLinqPrograming\obj\Debug\OperaterInLinqPrograming.exe
+C:\Users\ssmoh\source\repos\OperaterInLinqPrograming\OperaterInLinqPrograming\obj\Debug\OperaterInLinqPrograming.pdb

@@ -1,0 +1,7 @@
+C:\Users\ssmoh\source\repos\SampleJsonProject\SampleJsonProject\bin\Debug\SampleJsonProject.exe.config
+C:\Users\ssmoh\source\repos\SampleJsonProject\SampleJsonProject\bin\Debug\SampleJsonProject.exe
+C:\Users\ssmoh\source\repos\SampleJsonProject\SampleJsonProject\bin\Debug\SampleJsonProject.pdb
+C:\Users\ssmoh\source\repos\SampleJsonProject\SampleJsonProject\obj\Debug\SampleJsonProject.csprojAssemblyReference.cache
+C:\Users\ssmoh\source\repos\SampleJsonProject\SampleJsonProject\obj\Debug\SampleJsonProject.csproj.CoreCompileInputs.cache
+C:\Users\ssmoh\source\repos\SampleJsonProject\SampleJsonProject\obj\Debug\SampleJsonProject.exe
+C:\Users\ssmoh\source\repos\SampleJsonProject\SampleJsonProject\obj\Debug\SampleJsonProject.pdb

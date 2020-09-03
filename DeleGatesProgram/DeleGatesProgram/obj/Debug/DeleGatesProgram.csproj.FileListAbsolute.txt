@@ -1,0 +1,7 @@
+C:\Users\ssmoh\source\repos\DeleGatesProgram\DeleGatesProgram\bin\Debug\DeleGatesProgram.exe.config
+C:\Users\ssmoh\source\repos\DeleGatesProgram\DeleGatesProgram\bin\Debug\DeleGatesProgram.exe
+C:\Users\ssmoh\source\repos\DeleGatesProgram\DeleGatesProgram\bin\Debug\DeleGatesProgram.pdb
+C:\Users\ssmoh\source\repos\DeleGatesProgram\DeleGatesProgram\obj\Debug\DeleGatesProgram.csprojAssemblyReference.cache
+C:\Users\ssmoh\source\repos\DeleGatesProgram\DeleGatesProgram\obj\Debug\DeleGatesProgram.csproj.CoreCompileInputs.cache
+C:\Users\ssmoh\source\repos\DeleGatesProgram\DeleGatesProgram\obj\Debug\DeleGatesProgram.exe
+C:\Users\ssmoh\source\repos\DeleGatesProgram\DeleGatesProgram\obj\Debug\DeleGatesProgram.pdb

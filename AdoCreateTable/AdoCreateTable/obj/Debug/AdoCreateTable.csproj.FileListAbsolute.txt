@@ -1,0 +1,7 @@
+C:\Users\ssmoh\source\repos\AdoCreateTable\AdoCreateTable\bin\Debug\AdoCreateTable.exe.config
+C:\Users\ssmoh\source\repos\AdoCreateTable\AdoCreateTable\bin\Debug\AdoCreateTable.exe
+C:\Users\ssmoh\source\repos\AdoCreateTable\AdoCreateTable\bin\Debug\AdoCreateTable.pdb
+C:\Users\ssmoh\source\repos\AdoCreateTable\AdoCreateTable\obj\Debug\AdoCreateTable.csprojAssemblyReference.cache
+C:\Users\ssmoh\source\repos\AdoCreateTable\AdoCreateTable\obj\Debug\AdoCreateTable.csproj.CoreCompileInputs.cache
+C:\Users\ssmoh\source\repos\AdoCreateTable\AdoCreateTable\obj\Debug\AdoCreateTable.exe
+C:\Users\ssmoh\source\repos\AdoCreateTable\AdoCreateTable\obj\Debug\AdoCreateTable.pdb

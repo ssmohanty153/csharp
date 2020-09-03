@@ -1,0 +1,7 @@
+C:\Users\ssmoh\source\repos\IndexProgram\IndexProgram\bin\Debug\IndexProgram.exe.config
+C:\Users\ssmoh\source\repos\IndexProgram\IndexProgram\bin\Debug\IndexProgram.exe
+C:\Users\ssmoh\source\repos\IndexProgram\IndexProgram\bin\Debug\IndexProgram.pdb
+C:\Users\ssmoh\source\repos\IndexProgram\IndexProgram\obj\Debug\IndexProgram.csprojAssemblyReference.cache
+C:\Users\ssmoh\source\repos\IndexProgram\IndexProgram\obj\Debug\IndexProgram.csproj.CoreCompileInputs.cache
+C:\Users\ssmoh\source\repos\IndexProgram\IndexProgram\obj\Debug\IndexProgram.exe
+C:\Users\ssmoh\source\repos\IndexProgram\IndexProgram\obj\Debug\IndexProgram.pdb

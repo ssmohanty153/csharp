@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculateer", "Calculateer\Calculateer.csproj", "{AA4C07DF-8CE1-48AF-8508-57FC0DD0EC0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA4C07DF-8CE1-48AF-8508-57FC0DD0EC0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA4C07DF-8CE1-48AF-8508-57FC0DD0EC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA4C07DF-8CE1-48AF-8508-57FC0DD0EC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA4C07DF-8CE1-48AF-8508-57FC0DD0EC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7555F41A-A004-4B5D-8D83-31B4F04D5EE8}
+	EndGlobalSection
+EndGlobal

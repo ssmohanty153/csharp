@@ -1,0 +1,13 @@
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinqApi\obj\Debug\netcoreapp3.1\LinqApi.csprojAssemblyReference.cache
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinqApi\obj\Debug\netcoreapp3.1\LinqApi.AssemblyInfoInputs.cache
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinqApi\obj\Debug\netcoreapp3.1\LinqApi.AssemblyInfo.cs
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinqApi\obj\Debug\netcoreapp3.1\LinqApi.csproj.CoreCompileInputs.cache
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinqApi\bin\Debug\netcoreapp3.1\LinqApi.exe
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinqApi\bin\Debug\netcoreapp3.1\LinqApi.deps.json
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinqApi\bin\Debug\netcoreapp3.1\LinqApi.runtimeconfig.json
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinqApi\bin\Debug\netcoreapp3.1\LinqApi.runtimeconfig.dev.json
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinqApi\bin\Debug\netcoreapp3.1\LinqApi.dll
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinqApi\bin\Debug\netcoreapp3.1\LinqApi.pdb
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinqApi\obj\Debug\netcoreapp3.1\LinqApi.dll
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinqApi\obj\Debug\netcoreapp3.1\LinqApi.pdb
+C:\Users\ssmoh\source\repos\LinkToSqlProject\LinqApi\obj\Debug\netcoreapp3.1\LinqApi.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\ssmoh\source\repos\MulticlientProgram\MulticlientProgram\bin\Debug\MulticlientProgram.exe.config
+C:\Users\ssmoh\source\repos\MulticlientProgram\MulticlientProgram\bin\Debug\MulticlientProgram.exe
+C:\Users\ssmoh\source\repos\MulticlientProgram\MulticlientProgram\bin\Debug\MulticlientProgram.pdb
+C:\Users\ssmoh\source\repos\MulticlientProgram\MulticlientProgram\obj\Debug\MulticlientProgram.csprojAssemblyReference.cache
+C:\Users\ssmoh\source\repos\MulticlientProgram\MulticlientProgram\obj\Debug\MulticlientProgram.csproj.CoreCompileInputs.cache
+C:\Users\ssmoh\source\repos\MulticlientProgram\MulticlientProgram\obj\Debug\MulticlientProgram.exe
+C:\Users\ssmoh\source\repos\MulticlientProgram\MulticlientProgram\obj\Debug\MulticlientProgram.pdb
